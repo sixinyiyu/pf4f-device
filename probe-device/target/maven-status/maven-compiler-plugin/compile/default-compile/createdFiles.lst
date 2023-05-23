@@ -1,0 +1,3 @@
+META-INF\extensions.idx
+com\github\device\ProbeDevice.class
+com\github\device\ProbeDevicePlugin.class

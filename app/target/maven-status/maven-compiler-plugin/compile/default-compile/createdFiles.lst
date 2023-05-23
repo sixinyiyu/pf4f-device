@@ -1,0 +1,6 @@
+com\github\device\app\Device.class
+com\github\device\app\Main.class
+com\github\device\app\Index.class
+com\github\device\app\IDeviceRegFacade.class
+com\github\device\app\DeviceRegService.class
+com\github\device\app\RegResponse.class
